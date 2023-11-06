@@ -1,0 +1,62 @@
+C:\Users\thanh\OneDrive\Máy tính\C#\CNPM_29\bin\Debug\CNPM_29.exe.config
+C:\Users\thanh\OneDrive\Máy tính\C#\CNPM_29\bin\Debug\CNPM_29.exe
+C:\Users\thanh\OneDrive\Máy tính\C#\CNPM_29\bin\Debug\CNPM_29.pdb
+C:\Users\thanh\OneDrive\Máy tính\C#\CNPM_29\obj\Debug\CNPM_29.csproj.AssemblyReference.cache
+C:\Users\thanh\OneDrive\Máy tính\C#\CNPM_29\obj\Debug\CNPM_29.csproj.SuggestedBindingRedirects.cache
+C:\Users\thanh\OneDrive\Máy tính\C#\CNPM_29\obj\Debug\MainWindow.g.cs
+C:\Users\thanh\OneDrive\Máy tính\C#\CNPM_29\obj\Debug\App.g.cs
+C:\Users\thanh\OneDrive\Máy tính\C#\CNPM_29\obj\Debug\CNPM_29_MarkupCompile.cache
+C:\Users\thanh\OneDrive\Máy tính\C#\CNPM_29\obj\Debug\CNPM_29_MarkupCompile.lref
+C:\Users\thanh\OneDrive\Máy tính\C#\CNPM_29\obj\Debug\MainWindow.baml
+C:\Users\thanh\OneDrive\Máy tính\C#\CNPM_29\obj\Debug\CNPM_29.g.resources
+C:\Users\thanh\OneDrive\Máy tính\C#\CNPM_29\obj\Debug\CNPM_29.Properties.Resources.resources
+C:\Users\thanh\OneDrive\Máy tính\C#\CNPM_29\obj\Debug\CNPM_29.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive\Máy tính\C#\CNPM_29\obj\Debug\CNPM_29.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Máy tính\C#\CNPM_29\obj\Debug\CNPM_29.exe
+C:\Users\thanh\OneDrive\Máy tính\C#\CNPM_29\obj\Debug\CNPM_29.pdb
+D:\C#\CNPM_29\bin\Debug\CNPM_29.exe.config
+D:\C#\CNPM_29\bin\Debug\CNPM_29.exe
+D:\C#\CNPM_29\bin\Debug\CNPM_29.pdb
+D:\C#\CNPM_29\obj\Debug\CNPM_29.csproj.AssemblyReference.cache
+D:\C#\CNPM_29\obj\Debug\CNPM_29.csproj.SuggestedBindingRedirects.cache
+D:\C#\CNPM_29\obj\Debug\MainWindow.g.cs
+D:\C#\CNPM_29\obj\Debug\App.g.cs
+D:\C#\CNPM_29\obj\Debug\CNPM_29_MarkupCompile.cache
+D:\C#\CNPM_29\obj\Debug\CNPM_29_MarkupCompile.lref
+D:\C#\CNPM_29\obj\Debug\MainWindow.baml
+D:\C#\CNPM_29\obj\Debug\CNPM_29.g.resources
+D:\C#\CNPM_29\obj\Debug\CNPM_29.Properties.Resources.resources
+D:\C#\CNPM_29\obj\Debug\CNPM_29.csproj.GenerateResource.cache
+D:\C#\CNPM_29\obj\Debug\CNPM_29.csproj.CoreCompileInputs.cache
+D:\C#\CNPM_29\obj\Debug\CNPM_29.exe
+D:\C#\CNPM_29\obj\Debug\CNPM_29.pdb
+D:\C#\CNPM_29\obj\Debug\Controls\Them_nhan_khau.g.cs
+D:\C#\CNPM_29\obj\Debug\Controls\Them_nhan_khau.baml
+D:\C#\CNPM_29\obj\Debug\LoginWindow.g.cs
+D:\C#\CNPM_29\obj\Debug\LoginWindow.baml
+D:\C#\CNPM_29\obj\Debug\Template\ButtonStyle1.baml
+D:\C#\CNPM_29\obj\Debug\App.baml
+D:\C#\CNPM_29\obj\Debug\Controls\Nhan_khau.g.cs
+D:\C#\CNPM_29\obj\Debug\Controls\Nhan_khau.baml
+D:\C#\CNPM_29\obj\Debug\Controls\Cap_nhat_nhan_khau.g.cs
+D:\C#\CNPM_29\obj\Debug\Controls\Cap_nhat_nhan_khau.baml
+D:\C#\CNPM_29\obj\Debug\Controls\Ho_khau.g.cs
+D:\C#\CNPM_29\obj\Debug\Controls\Ho_khau.baml
+D:\C#\CNPM_29\obj\Debug\Controls\Them_ho_khau.g.cs
+D:\C#\CNPM_29\obj\Debug\Controls\Them_ho_khau.baml
+D:\C#\CNPM_29\obj\Debug\Template\TextBoxStyle1.baml
+D:\C#\CNPM_29\obj\Debug\Controls\Sua_ho_khau.g.cs
+D:\C#\CNPM_29\obj\Debug\Controls\Sua_ho_khau.baml
+D:\C#\CNPM_29\obj\Debug\Controls\Khoan_phi.g.cs
+D:\C#\CNPM_29\obj\Debug\Controls\Khoan_phi.baml
+D:\C#\CNPM_29\obj\Debug\Controls\Cap_nhat_khoan_thu.g.cs
+D:\C#\CNPM_29\obj\Debug\Controls\Them_khoan_thu.g.cs
+D:\C#\CNPM_29\obj\Debug\Controls\Cap_nhat_khoan_thu.baml
+D:\C#\CNPM_29\obj\Debug\Controls\Them_khoan_thu.baml
+D:\C#\CNPM_29\obj\Debug\Controls\Dong_phi.g.cs
+D:\C#\CNPM_29\obj\Debug\Controls\Dong_phi.baml
+D:\C#\CNPM_29\obj\Debug\Controls\Nop_tien.g.cs
+D:\C#\CNPM_29\obj\Debug\Controls\Nop_tien.baml
+D:\C#\CNPM_29\obj\Debug\Controls\Trang_chu.g.cs
+D:\C#\CNPM_29\obj\Debug\Controls\Trang_chu.baml
+D:\C#\CNPM_29\obj\Debug\Template\Return_Btn.baml

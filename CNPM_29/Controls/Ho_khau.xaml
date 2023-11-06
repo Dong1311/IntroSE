@@ -1,0 +1,47 @@
+﻿<UserControl x:Class="CNPM_29.Controls.Ho_khau"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CNPM_29.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" Background="White">
+    <Grid Background="#EFEFF2">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Margin="10">
+            <Button Content="Thêm hộ" Margin="0,0,30,0" Style="{StaticResource RedBtn}" 
+                    HorizontalAlignment="Left" Click="Them_ho_khau_Click"/>
+            <Button Content="Xóa hộ" Margin="0,0,30,0" Style="{StaticResource RedBtn}"/>
+            <Button Content="Sửa hộ" Margin="0,0,30,0" Style="{StaticResource RedBtn}"
+                    Click="Sua_ho_Click"/>
+        </StackPanel>
+
+
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Margin="10,10,10,20" HorizontalAlignment="Left">
+            <TextBox Width="200" />
+            <ComboBox Width="100" Margin="10,0,0,0">
+                <ComboBoxItem>Tên</ComboBoxItem>
+ 
+            </ComboBox>
+            <Button Content="Tìm kiếm" Margin="10,0,0,0"
+                    Style="{StaticResource RedBtn}"/>
+        </StackPanel>
+
+
+        <DataGrid Grid.Row="2" AutoGenerateColumns="True" Margin="10"
+                  FontFamily="Times New Roman" FontSize="20">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã hộ" Width="*" MinWidth="140"/>
+                <DataGridTextColumn Header="Tên chủ hộ" Width="*"/>
+                <DataGridTextColumn Header="Số thành viên" Width="*"/>
+                <DataGridTextColumn Header="Địa chỉ" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>
